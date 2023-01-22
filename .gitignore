@@ -1,0 +1,10 @@
+# local terra dir
+.terraform/*
+
+# terra state files
+*.tfstate
+*.tfstate.*
+
+# tf var files
+*.tfvars
+
